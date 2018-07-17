@@ -41,5 +41,13 @@
 		<string>UIInterfaceOrientationLandscapeLeft</string>
 		<string>UIInterfaceOrientationLandscapeRight</string>
 	</array>
+	<key>NSCameraUsageDescription</key>
+	<string>需要您的同意，访问相机，进行视频拍摄或拍照。</string>
+	<key>NSMicrophoneUsageDescription</key>
+	<string>需要您的同意，获取麦克风，进行视频拍摄。</string>
+	<key>NSPhotoLibraryAddUsageDescription</key>
+	<string>需要您的同意，访问相册，进行保存照片或者视频。</string>
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>需要您的同意，访问相册，进行保存照片或者视频。</string>
 </dict>
 </plist>
