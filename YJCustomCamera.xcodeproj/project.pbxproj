@@ -35,7 +35,6 @@
 		AAAD973220FD9886001439DD /* IMG_0285.PNG in Resources */ = {isa = PBXBuildFile; fileRef = AAAD972D20FD9885001439DD /* IMG_0285.PNG */; };
 		AAAD973320FD9886001439DD /* IMG_0288.PNG in Resources */ = {isa = PBXBuildFile; fileRef = AAAD972E20FD9885001439DD /* IMG_0288.PNG */; };
 		AAAD973420FD9886001439DD /* IMG_0289.PNG in Resources */ = {isa = PBXBuildFile; fileRef = AAAD972F20FD9885001439DD /* IMG_0289.PNG */; };
-		AAAD973520FD9886001439DD /* IMG_0287.mov in Resources */ = {isa = PBXBuildFile; fileRef = AAAD973020FD9886001439DD /* IMG_0287.mov */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -113,7 +112,6 @@
 		AAAD972D20FD9885001439DD /* IMG_0285.PNG */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = IMG_0285.PNG; sourceTree = "<group>"; };
 		AAAD972E20FD9885001439DD /* IMG_0288.PNG */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = IMG_0288.PNG; sourceTree = "<group>"; };
 		AAAD972F20FD9885001439DD /* IMG_0289.PNG */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = IMG_0289.PNG; sourceTree = "<group>"; };
-		AAAD973020FD9886001439DD /* IMG_0287.mov */ = {isa = PBXFileReference; lastKnownFileType = video.quicktime; path = IMG_0287.mov; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -262,7 +260,6 @@
 			children = (
 				AAAD972D20FD9885001439DD /* IMG_0285.PNG */,
 				AAAD972C20FD9885001439DD /* IMG_0286.PNG */,
-				AAAD973020FD9886001439DD /* IMG_0287.mov */,
 				AAAD972E20FD9885001439DD /* IMG_0288.PNG */,
 				AAAD972F20FD9885001439DD /* IMG_0289.PNG */,
 			);
@@ -375,7 +372,6 @@
 				AAAD971B20FD8B45001439DD /* Info.plist in Resources */,
 				AAAD96CC20FD89A1001439DD /* LaunchScreen.storyboard in Resources */,
 				AAAD96C920FD89A1001439DD /* Assets.xcassets in Resources */,
-				AAAD973520FD9886001439DD /* IMG_0287.mov in Resources */,
 				AAAD973120FD9886001439DD /* IMG_0286.PNG in Resources */,
 				AAAD973320FD9886001439DD /* IMG_0288.PNG in Resources */,
 				AAAD973220FD9886001439DD /* IMG_0285.PNG in Resources */,
